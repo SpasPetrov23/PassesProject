@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassesProject.API", "PassesProject\PassesProject.API.csproj", "{82FE9557-27B1-4E98-91A1-A8FB96139411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassesProject.Data", "PassesProject.Data\PassesProject.Data.csproj", "{7205E0C1-ED6B-47DC-B7C5-BDE951695AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82FE9557-27B1-4E98-91A1-A8FB96139411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FE9557-27B1-4E98-91A1-A8FB96139411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FE9557-27B1-4E98-91A1-A8FB96139411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FE9557-27B1-4E98-91A1-A8FB96139411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7205E0C1-ED6B-47DC-B7C5-BDE951695AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7205E0C1-ED6B-47DC-B7C5-BDE951695AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7205E0C1-ED6B-47DC-B7C5-BDE951695AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7205E0C1-ED6B-47DC-B7C5-BDE951695AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
